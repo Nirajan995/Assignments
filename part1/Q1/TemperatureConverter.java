@@ -1,3 +1,4 @@
+
 // 1. Write a program that reads a Fahrenheit degree in double,
 // then converts it to Celsius and displays the result on the console. The formula for the conversion is as follows:
 
