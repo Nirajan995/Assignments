@@ -3,4 +3,9 @@ public class FullTime extends Staff {
    MyDate dateHired, String title) {
   super(name, address, phone, email, office, salary, dateHired, title);
  }
+
+  // Calculate salary for full-time staff
+  public double calculateSalary() {
+    return this.salary;
+   }
 }
